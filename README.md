@@ -1,2 +1,2 @@
-# ML-with-PyTorch-and-Scikit-Learn
+# Machine Learning Codes
 ------------------------------------
